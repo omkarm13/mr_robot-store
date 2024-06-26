@@ -1,7 +1,7 @@
 
 # Mr Robot-Store
 
-#### Welcome to MrRobot-Store,your go-to online shop for cyber security products!
+#### Welcome to Mr Robot-Store, your go-to online shop for cyber security products!
 
 ---
 
